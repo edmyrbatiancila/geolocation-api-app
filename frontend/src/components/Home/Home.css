@@ -1,0 +1,11 @@
+.home {
+    padding: 20px;
+}
+
+.error {
+    color: red;
+}
+
+.history {
+    cursor: pointer;
+}
